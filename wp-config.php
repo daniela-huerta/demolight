@@ -23,10 +23,10 @@
 define( 'DB_NAME', 'demo-light' );
 
 /** MySQL database username */
-define( 'DB_USER', 'root' );
+define( 'DB_USER', 'admin' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', '' );
+define( 'DB_PASSWORD', '5e37dad703d77d44c5aebcee158603588a066869e5f5ede4' );
 
 /** MySQL hostname */
 define( 'DB_HOST', 'localhost' );
